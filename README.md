@@ -1,4 +1,4 @@
-# TOOL NAME  **100X Ethical **
+# TOOL NAME  **hacklb100 **  😈👿😈👿😈
 
 A single-file, standard-library-only Python toolkit of 100 defensive security utilities for
 **authorized** testing and learning. Built for Android **Termux** on low-resource phones, with
@@ -115,10 +115,10 @@ Install
 pkg update && pkg install python git
 ```
 ```bash
-git clone 
+git clone https://github.com/Curlgit/hacklab-100.git
 ```
 ```bash
-cd 
+cd hacklab-100
 ```
 ```bash
 sh install.sh
