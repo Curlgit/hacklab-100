@@ -115,7 +115,7 @@ Install
 pkg update && pkg install python git
 ```
 ```bash
-git clone https://github.com/Curlgit/hacklab-100.git
+git clone https://github.com/git/hacklab-100.git
 ```
 ```bash
 cd hacklab-100
